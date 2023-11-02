@@ -1,0 +1,65 @@
+body {
+    background-color: #cfcfcf;
+}
+
+.container {
+    text-align: center;
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 750px;
+    height: 360px;
+    max-height: 100vh;
+    margin-top: 200px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    color: black;
+    width: 300px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+svg {
+    height: 20px;
+    width: 20px;
+    fill: rgb(204, 182, 128);
+}
+
+.phone {
+    margin: 0px 7px 0px 0px;
+    fill: rgb(204, 182, 128);
+}
+
+.title {
+    color: rgb(204, 182, 128);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    float: left;
+    margin: 5px 70px 0px 80px;
+}
+
+.information {
+    text-align: left;
+    margin: 4px 60px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.location {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(204, 182, 128);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800; 
+}
+.line {
+    width: 200px;
+    float: left;
+    border-top: 10px solid black;
+}
